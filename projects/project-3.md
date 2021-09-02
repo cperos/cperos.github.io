@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IMG_7143.GIF
+image: images/IMG_71432.GIF
 title: Randomized Zelda Game
 permalink: projects/Zelda
 # All dates must be YYYY-MM-DD format!

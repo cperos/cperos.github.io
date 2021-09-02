@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IMG_0169.JPG
+image: images/IMG_01692.JPG
 title: Shrimp and Fish Room
 permalink: projects/shrimp
 # All dates must be YYYY-MM-DD format!

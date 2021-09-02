@@ -1,61 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/IMG_7143.GIF
+title: Randomized Zelda Game
+permalink: projects/Zelda
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-05-27
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Unity
+  - C#
+  - Zelda
+summary: A randomized adventure game I developed for my brother's birthday.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/IMG_7143.GIF">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Designed a game entirely in unity.  Scripting done entirely from scratch in VSCode C# for Unity.  Complete four level game with enemies and items.  This game utilized the sprites and graphics from the original NES Zelda game to create a randomized 4 level game with complete with four unique bosses, four randomized dungeons and complete overworld.  The maps, enemies and item locations were completely randomized making for a unique gameplay experiance every play through the game.  Every dungeon contains an item key, an item, a boss key and a boss.  Each item allowed for the completion of the next dungeon.  The user could never be sure where the items were located or which direction to go.  Enemies randomly spawn in each room and health grew upon completion of every level.  Secret hidden rooms and items were locted in random locations on map, and rupees could be found and spend on conssumable items or to upgrade damage by the sword.  Project took several months to complete, and a full playable game was created upon completion.

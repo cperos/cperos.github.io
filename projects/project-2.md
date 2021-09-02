@@ -1,25 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/IMG_0169.JPG
+title: Shrimp and Fish Room
+permalink: projects/shrimp
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-05-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Fish
+  - Shrimp
+  - neocaridina
+  - Cihlids
+summary: An aquaculture project set up using mostly reycled materials for the breeding of shrimp and fish
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/IMG_0169.JPG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+  Designed and contructed a functioning fish and shrimp room for the aquaculture of African Cichlids and Neocaridina cherry shrimp.  This project incorporated several freshwater reirculating systems for the commercial production of African Cichlids and Neocaridina cherry shrimp.  Utilized mostly recycled and repurposed materials for contruction of the room in an area between two existing structures.  It was a narrow room with over a dozen 20 gallon buckets housing breeding populations of several varieties of cherry shrimp.  Blue Diamond, Pumpkin Orange, Sakura Red, 24k yellow as well as other varieties were succefully breeding and repopulating the system as well as 4 aquariuams housing flametail african cichlids.  Water changes automatically watered several drip line aquaponic systems that grew a variety of plants and vegetation.  Water had been naturally fertalized with fish and shrimp waste createing an optimal environment for production of crops as well as automatically providing maintanence to the recirculating systems. 

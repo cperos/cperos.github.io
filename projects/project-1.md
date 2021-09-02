@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/30AFE302-5592-4E17-A0CD-69D9C147DBDB.JPG
+image: images/30AFE302-5592-4E17-A0CD-69D9C147DBDB2.JPG
 title: UROP
 permalink: projects/urop
 # All dates must be YYYY-MM-DD format!

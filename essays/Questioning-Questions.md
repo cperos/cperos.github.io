@@ -36,7 +36,9 @@ Here is a great example of a not so great question.  First the title “Why is t
 <br>
 
 https://stackoverflow.com/questions/245062/whats-the-difference-between-javascript-and-java
+
 Here is another question from the not so great category, although some of the responses are wonderful.
+
 The OP asks simply “What's the difference between JavaScript and Java?”.
 Obviously a little bit of research online could answer this in a few minutes but you can tell the person was being lazy and just wanted to be spoon fed an answer.  My Favorite of which is “Java and Javascript are similar like Car and Carpet are similar.”
 

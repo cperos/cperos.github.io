@@ -62,5 +62,4 @@ I think this question is good because the title is enough to let everyone know t
 
 In conclusion, we have learned that not all questions are smart questions.  Smart people like a smart question, so ask a smart question and you’ll get a smart response.  Likewise ask a dumb question and get a dumb response.  Effort will be reciprocated.  The internet is a wealth of knowledge and information, you just have to have the keys to unlock it.  If you are having a problem odd are someone else has experienced and solved that problem already.  You can save a lot of time and headache if you just know how to ask the right questions.
 
-
 2021-09-09

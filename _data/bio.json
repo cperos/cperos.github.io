@@ -114,7 +114,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "work": [
     {
       "organization": "Postmates",
       "website": "https://postmates.com/",
@@ -126,20 +126,6 @@
         "Sometimes get a free soda"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "Pell Grant",

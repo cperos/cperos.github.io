@@ -60,19 +60,18 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Arduino",
+        "Unity"
       ]
     }
   ],
@@ -97,7 +96,7 @@
       "endDate": "Present",
       "summary": "Electronic implementation of underwater ROV",
       "highlights": [
-        "Solderign and assembleing emectronic components, testing, circuit",
+        "Soldering and assembleing emectronic components, testing, circuit",
         "design and build student-community projects for UH Manoa"
       ]
     },

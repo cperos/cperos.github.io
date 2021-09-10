@@ -12,12 +12,11 @@ labels:
   - Arduino
   - C++
   - Jetson
+  - Ubuntu
 summary: My team is developing a remote resident ROV that will stay in the ocean for extended periods.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/IMG_5381large.jpg">
-</div>
+<img src="../images/IMG_5381large.jpg">
 
 The UROP program at UH is developing a resident underwater ROV that will operate out of Kewalo basin harbor.  It will be capable of recharging itself between missions on a docking platform and secured in place my electromagnets.  Based on the Blue Robotics ROV2 this ROV will be operated remotely and wirelessly collect data about the ocean.  I am the lead Electronics Engineer and work in the lab assembing and testing the circuits for the ROV.  It is a paid position at the robotics labratory at UH Manoa, that I was interveiwed and selected for.  I work with graduate students helping them design circuits for their Dissertations.
 

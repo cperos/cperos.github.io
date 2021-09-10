@@ -40,7 +40,13 @@ https://stackoverflow.com/questions/245062/whats-the-difference-between-javascri
 Here is another question from the not so great category, although some of the responses are wonderful.
 
 The OP asks simply “What's the difference between JavaScript and Java?”.
+<br>
+<img src="../images/StackOverflow3.png">
+<br>
 Obviously a little bit of research online could answer this in a few minutes but you can tell the person was being lazy and just wanted to be spoon fed an answer.  My Favorite of which is “Java and Javascript are similar like Car and Carpet are similar.”
+<br>
+<img src="../images/StackOverflow4.png">
+<br>
 
 Now for some better questions.
 

@@ -42,5 +42,6 @@ JavaScript:
 	console.log("the total is : " + pr);
 
 
+These WOD Challenges can be stressful when you are frantically trying to finish in the desired timeframe, but when you complete the challenge and it works perfectly it can be very rewarding.  I think the more that you attempt these the better you will get at completing them and eventually they start to become almost fun.  It can feel almost like a game, a brain teaser like a crossword or sudoku when you know your JavaScript.  I hope to increase my overall intelligence as the semester goes on with these puzzles until my head swells to great proportions.  
 
 2021-09-01

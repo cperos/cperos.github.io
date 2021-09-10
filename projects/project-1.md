@@ -27,6 +27,7 @@ It is a very fun project that requires thinking outside the box and problem solv
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/ROVWiring.png">
+  <br>
   <img class="ui image" src="../images/DSWiring.png">
 </div>
 

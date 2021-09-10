@@ -29,4 +29,6 @@ It is a very fun project that requires thinking outside the box and problem solv
   <img src="../images/ROVWiring.png">
   <br>
   <img src="../images/DSWiring.png">
+  <br>
+  <img src="../images/IMG_5381large.jpg">
 

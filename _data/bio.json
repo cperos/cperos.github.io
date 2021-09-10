@@ -47,7 +47,7 @@
     },
     {
       "name": "artificial intelligence",
-      "keywords": [
+      "keywords": ["robotics"
       ]
     }
   ],
@@ -60,18 +60,20 @@
         "C++",
         "Java",
         "Javascript",
-        "HTML"
+        "HTML",
+        "TensorFlow"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
+        "Linux Mint",
         "Ubuntu",
         "Git/GitHub",
-        "Arduino",
-        "Unity"
+        "Unix",
+        "VIM",
+	"Unity"
       ]
     }
   ],
@@ -96,7 +98,7 @@
       "endDate": "Present",
       "summary": "Electronic implementation of underwater ROV",
       "highlights": [
-        "Soldering and assembleing emectronic components, testing, circuit",
+        "Solderign and assembleing emectronic components, testing, circuit",
         "design and build student-community projects for UH Manoa"
       ]
     },
@@ -111,7 +113,9 @@
         "Collect, repair and remove payphones from all over state of Hawaii",
         "Plan service routes and transport coins to secure facility"
       ]
-    },
+    }
+  ],
+  "volunteer": [
     {
       "organization": "Postmates",
       "website": "https://postmates.com/",
@@ -122,7 +126,21 @@
       "highlights": [
         "Sometimes get a free soda"
       ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
     }
+  ],
   "awards": [
     {
       "title": "Pell Grant",

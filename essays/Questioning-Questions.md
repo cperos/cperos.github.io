@@ -26,7 +26,7 @@ Lets take a look at some smart questions and not so smart questions below from S
 https://stackoverflow.com/questions/5508110/why-is-this-program-erroneously-rejected-by-three-c-compilers
 
 <br>
-<img src="../images/StackOverflow1.png">
+<img src="../images/StackOverflow.png">
 <br>
 
 Here is a great example of a not so great question.  First the title “Why is this program erroneously rejected by three C++ compilers?”  It almost implies the code is fine but the compliers are the problem, which at least the compilers and errors are specified.  This question is so simple and easy to solve Im sure a quick google search would have led to an answer.  Not only was it way too simple, but the code is hand drawn! Of course this was going to “draw” some hilarious responses as well.  I’m hoping this guy’s question was a joke, but the way the errors are listed I'm not too sure.

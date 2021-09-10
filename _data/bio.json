@@ -112,9 +112,7 @@
         "Collect, repair and remove payphones from all over state of Hawaii",
         "Plan service routes and transport coins to secure facility"
       ]
-    }
-  ],
-  "work": [
+    },
     {
       "organization": "Postmates",
       "website": "https://postmates.com/",
@@ -125,7 +123,8 @@
       "highlights": [
         "Sometimes get a free soda"
       ]
-    },
+    }
+    ]
   "awards": [
     {
       "title": "Pell Grant",

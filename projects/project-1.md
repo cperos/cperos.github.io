@@ -26,7 +26,7 @@ This a great project for me as it requires constant problem solving as well as b
 It is a very fun project that requires thinking outside the box and problem solving.  I love robotics and being able to put my education on the topic to use.  There are many obstacles to overcome on this project, such as remote operation, data transmission and corrosion.  I am working with a talented team of individuals to overcome these obstacles and am confidant we will have this fully operational in the near future.  For more a look at some of the circuits that make this bot tick check out the pictures below.  
 
 <p>
-  <img class="ui image" src="../images/ROVWiring.png">
+  <img src="../images/ROVWiring.png">
   <br>
-  <img class="ui image" src="../images/DSWiring.png">
+  <img src="../images/DSWiring.png">
 

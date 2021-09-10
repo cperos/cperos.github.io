@@ -84,8 +84,8 @@
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "2.8",
-      "courses": ["ICS 111", "ICS 211", "ICS 311", "Discrete Math 1 & 2", "Calculus 1 & 2"]
+      "gpa": "3.0",
+      "courses": ["ICS 111, 211, 311", "Calculus 1 & 2", "Discrete Math 1 & 2"
       ]
     }
   ],
@@ -115,7 +115,7 @@
       ]
     }
   ],
-  "previous work": [
+  "volunteer": [
     {
       "organization": "Postmates",
       "website": "https://postmates.com/",
@@ -125,6 +125,19 @@
       "summary": "Pick up and Deliver food out of my car",
       "highlights": [
         "Sometimes get a free soda"
+      ]
+    },
+    {
+      "organization": "Paepae o He'eia",
+      "website": "paepaeoheeia.org",
+      "position": "student volunteer",
+      "startDate": "2021-02-15",
+      "endDate": "2021-5-15",
+      "summary": "Designed Pamphlets and visual media for the organization.  Worked with local organization to promote traditional Hawaiian agricultural practices",
+      "highlights": [
+        "Photography",
+        "Digital Media",
+        "Traditional Hawaiian Aquaculture"
       ]
     }
   ],

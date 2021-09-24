@@ -21,7 +21,7 @@ But now that I have spoken of the praises of the standards of the code, I must g
         ...... Function stuff here
     }
 
-    Function Foo ()   {    // <----- ESLint Way
+    Function Foo () {    // <----- ESLint Way
         ...... Function stuff here
     }
 

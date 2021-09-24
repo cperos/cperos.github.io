@@ -21,7 +21,7 @@ Function Foo ()    // <----- My Way
 {
 
 
-...... Function stuff here
+    ...... Function stuff here
 
 
 }
@@ -29,7 +29,7 @@ Function Foo ()    // <----- My Way
 Function Foo ()   {    // <----- ESLint Way
 
 
-...... Function stuff here
+    ...... Function stuff here
 
 
 }

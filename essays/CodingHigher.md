@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript a language of the internet
+title: ESLint: Coding to a higher standard
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-23
 labels:

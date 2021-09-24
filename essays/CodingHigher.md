@@ -17,12 +17,21 @@ However with intelliJ I can click ESLint fix the current file a couple times and
 But now that I have spoken of the praises of the standards of the code, I must get to the one downside of a coding standard that I see.  That is what is the coding standard you have to use isnt up to your liking?  What if you dont agree with the way ESLint likes to see something written.  What if the coding stanard of a project of your liking isnt the coding standard that you know in your heart and love?  It can be a tough thing to reconsile with sometimes as a programmer.  Its like having to wear a school uniform when you have a style or a unique flair that is a little bit your own.  I have this problem with one small thing in ESLint, and although it is just one small thing, it sometimes feels like my favorite shirt I like to wear violates the school dress code. Do you want to know what my one beef with ESLint is?  The one simple thing that I do that just breaks my heart and makes me want to cry when I have to change is this
 
 Function Foo ()    // <----- My Way
+
 {
-...... FInction stuff here
+
+
+...... Function stuff here
+
+
 }
 
 Function Foo ()   {    // <----- ESLint Way
-...... FInction stuff here
+
+
+...... Function stuff here
+
+
 }
 
 Now the reason I dont like this and try to only  update my code fully to ESLint standards immediately before a final commit, especially on a larger project would be becuase the first way, my preference, is easier to match an open bracket with a closed bracket quickly.  It just seems to line up a little better for me and it is also a little thing my brother taught me so I it kinda feels sentimental as well I suppose.  I know it isn't the standard for all languages, but I think it depends on the codeing style you are using, and even what is considered standard for the language you are using. I know in some cases even the way you capitalize your variable names, and if you use camelcase in the wrong language it can be considered faux pas, but I like when function follows form so that particular way of bracketing works for me but not for my linty friends.  

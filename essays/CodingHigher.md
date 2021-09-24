@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ESLint: Coding to a higher standard
+title: Coding to a higher standard with ESLint
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-23
 labels:
@@ -9,7 +9,7 @@ labels:
   - Learning
   - ESLint
 ---
-ESLint: Coding to a higher standard.
+Coding to a higher standard with ESLint
 Coding standards just might be the most useful technically useless thing I can think of.  They don't always change how your code runs, but it it is like the programmers equivalent of takeing a messy room and making a clean room.   I remember in high school we used  to write essays for english class, and we had to use MLA format and set up the margins in microsoft word and the citations had to be formatted a specific way.  None of this really adds information to the actual paper you have written, but it does present the essay you worked so hard on in a more presentable way to the user.  Coding standards like ESLint are like the programmer's MLA format when writing a paper, only when using a powerful yet lightweight IDE sauch as IntelliJ, implementing such a format becomes a while lot simpler.
 If I have learned anything this semester in 314 is a programmers life doesnt always have to be hard and grueling.  Often times sure it's unavoidable, but if there is often times a simple solution if you have the right knowledge.  By configring my IntelliJ IDE to automatically use ESLint, I have brought my javascript coding from the amature level to much more professional level without actually changing much about my personal coding style what so ever!  It is wonderful, I can hammer out rough code on my keyboard like barbaric heathen that has never seen the outside of a cave, and the IDE automatically tidys it up and makes me appear like a civilized gentleman.  It is the biggest single leap in my ES coding I can make with the least amount of effort, so I am sold on it.
 What is funny is I have am not a stranger to Lint and I didnt even know it!  In a previous class we had to run a python script called CPPLint.py to check our work.  We program in this particular class in a terminal over uhunix, with VIM as the most luxurious IDE that we are supposed to use, so the process of going through and deleting all the incorrect spacing and spaces would be a little tideous at times.  I recall I would often write an entire program, get it working and compiling with no errors, then run the pythin script only to find I had 80+ hidden lint errors in my code I was anaware of.  To make things worse one of my biggest deviations from the code I tend to do is extra blank lines so everything is spaced out and easier for me to read and debug.  This is always fun to fix becuase when you have dozens of errors to fix and you are deleling lines and you know last time you ran the script you had errors on a specific line number but cant keep track of how many lines you deleted, then you have to save and exit, run the script again, then go back with the updated numbers and fix them again.  Often times a cycle, haveing to exit, reopen delete a few likes, exit runt the script, over and over again.  Very tedious.

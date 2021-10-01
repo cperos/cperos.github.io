@@ -9,9 +9,9 @@ labels:
   - Learning
   - UH Manoa
 ---
-
+<center>
 <img src="../images/Radical.PNG" height = 45% width = 45%>
-
+</center>
 The Radical Graduate
 
 It's pretty radical to graduate, I hope to do it myself one day, and one tool that could potentially help me do so is RadGrad.  It is an experimental web service for UH Manoa ICS students, and soon to be available for other majors such as computer engineering.  In the age of computer learning, with laulima, discord, zoom, slack, UH Stars plus all the individual class pages, you might as well have one more educational digital service to your life. So, what does RadGrad have to offer that the other sites do not? Well for one it has a review system so you can tell everyone about your favorite (or least favorite) ICS courses.  There are also a variety of tools to help you stay on track with your curricular and extracurricular activities.

@@ -10,7 +10,7 @@ labels:
   - UH Manoa
 ---
 <center>
-<img src="../images/Radical.PNG" height = 45% width = 45%>
+<img class="ui floated image" src="../images/Radical.PNG" height = 45% width = 45%>
 </center>
 The Radical Graduate
 

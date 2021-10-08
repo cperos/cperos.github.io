@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How I become ProSemantic
+title: How I became ProSemantic
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-07
 labels:

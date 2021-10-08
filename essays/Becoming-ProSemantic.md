@@ -27,8 +27,11 @@ My site -> http://www.manoaweb.byethost3.com/KeokiScuba/
 In conclusion Frameworks has given me about a 20 year update to my web design in a matter of 2 weeks.  Maybe once again I will be getting surfboard money from webdesign like I once did as a kid.  My sites are again as sharp and sleek as when I learned to do HTML4 frames in the early 2000s.  My websites are contemporary and clean, color blocked and themed, it’s like art is meeting computer science and I kind of like it.  After this module and learning what an amazing tool Frameworks and Semantic UI is, I will never be able understand how people like Mel Gibson could say things that are anti Semantic.
  
 See how far we’ve come, relics of the interweb:
+  
 Texas Internet Consulting - http://tic.com/index.html - HTML1.0 1987
+  
 Dole/Kemp Campaign - http://www.dolekemp96.org/main.htm - 1996
+  
 Welcome to Netscape - http://home.mcom.com/home/welcome.html -1995
   
 <img src="../images/mel.PNG" width="50%">

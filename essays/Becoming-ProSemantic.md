@@ -25,7 +25,7 @@ Keoki's site -> <a ref="https://www.keokiscuba.com/">https://www.keokiscuba.com/
   
 My site -> <a ref="http://www.manoaweb.byethost3.com/KeokiScuba/">http://www.manoaweb.byethost3.com/KeokiScuba/</a>
 
-In conclusion Frameworks has given me about a 20 year update to my web design in a matter of 2 weeks.  Maybe once again I will be getting surfboard money from webdesign like I once did as a kid.  My sites are again as sharp and sleek as when I learned to do HTML4 frames in the early 2000s.  My websites are contemporary and clean, color blocked and themed, it’s like art is meeting computer science and I kind of like it.  After this module and learning what an amazing tool Frameworks and Semantic UI is, I will never be able understand how people like Mel Gibson could say things that are anti Semantic.
+In conclusion Frameworks has given me about a 20 year update to my web design in a matter of 2 weeks.  Maybe once again I will be getting surfboard money from webdesign like I once did as a kid.  My sites are again as sharp and sleek as when I learned to do HTML4 frames in the early 2000s.  My websites are contemporary and clean, color blocked and themed, it’s like art is meeting computer science and I kind of like it.  After this module and learning what an amazing tool Frameworks and Semantic UI is, I will never be able understand how people like Mel Gibson could say things that are antiSemantic.
  
 See how far we’ve come, relics of the interweb:
   

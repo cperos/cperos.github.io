@@ -38,18 +38,18 @@ Mockup page ideas
 
 
  Use case ideas
-    - Students new to the area who would like to try surfing
-    - Students from Hawaii who have never tried surfing
-    - Students with some experience surfing who would like to know suitable locations for their level of skill
-    - Advanced surfers looking for the best waves on a particular swell
-    - Finding closest breaks to campus
-    - Finding new surf spots
-    - Avoiding bad surf spots and knowing of potential hazards ahead of time
+  - Students new to the area who would like to try surfing
+  - Students from Hawaii who have never tried surfing
+  - Students with some experience surfing who would like to know suitable locations for their level of skill
+  - Advanced surfers looking for the best waves on a particular swell
+  - Finding closest breaks to campus
+  - Finding new surf spots
+  - Avoiding bad surf spots and knowing of potential hazards ahead of time
 
 
 Beyond the basics
-    - rating system
-    - maybe a chat area or meetup room
-    - Maybe classifieds to list used surfboards and equipment
-    - Surf Instructors
-    - Surf spot log
+  - rating system
+  - maybe a chat area or meetup room
+  - Maybe classifieds to list used surfboards and equipment
+  - Surf Instructors
+  - Surf spot log

@@ -9,12 +9,12 @@ labels:
   - Surfing
   - Oahu
 ---
-Bryan Yagi
-Chase Miyasato
-Constantine Peros
+Bryan Yagi,
+Chase Miyasato,
+Constantine Peros,
 Desmond Lum
 
-UH Surfbreaks App
+<h1>UH Surfbreaks App</h1>
 
 Overview
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/IMG_71432.GIF
+image: images/monsters.jpg
 title: AR UH Monster Hunter
 permalink: projects/Payphone
 # All dates must be YYYY-MM-DD format!

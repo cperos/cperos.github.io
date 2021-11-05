@@ -14,4 +14,4 @@ labels:
 summary: An AR Monster Hunting Adventure.
 ---
 
-Welcome to the world of UH Monster Hunter. For the current version of the apk follow this <a href="../images/currentBuild.apk">link</a>
+Welcome to the world of UH Monster Hunter. For the current version of the apk follow this <a href="https://ufile.io/f4ediiew">link</a>

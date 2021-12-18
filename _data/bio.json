@@ -61,6 +61,8 @@
         "Java",
         "Javascript",
         "HTML",
+	"Meteor",
+	"React",
         "TensorFlow"
       ]
     },
@@ -90,6 +92,19 @@
     }
   ],
   "work": [
+    {
+      "company": "UH Manoa LAVA Lab",
+      "position": "AR/VR Assistant",
+      "website": "https://www.lavaflow.info/",
+      "startDate": "2022-01-16",
+      "endDate": "Present",
+      "summary": "A deep dive into Augmented and Virtual Reality",
+      "highlights": [
+        "A new fronteir",
+        "Working in a cutting edge VR Lab",
+	"CANOE 3d Environment"
+      ]
+    },
     {
       "company": "UH Manoa UROP",
       "position": "Lead Electronics Engineer",

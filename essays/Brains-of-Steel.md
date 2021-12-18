@@ -1,15 +1,15 @@
 ---
 layout: essay
 type: essay
-title: How I became ProSemantic
+title: Brains of Steel
 # All dates must be YYYY-MM-DD format!
-date: 2021-10-07
+date: 2021-12-15
 labels:
   - Frameworks
   - Semanitic UI
-  - HTML
-  - CSS
-  - UI
+  - React
+  - Meteor
+  - WOD
 ---
 
 <H1>Brains of Steel: Brain Training with Phillip “The Chalk” Johnson </H1>

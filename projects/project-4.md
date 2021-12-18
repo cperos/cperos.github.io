@@ -16,6 +16,8 @@ labels:
 summary: A collaborative culmination of a semester.
 ---
 
+<IMG SRC="../images/WaveCache.jpg">
+
 <H1>Surfing the internet for Surf data</H1>
 <H2>WaveCache</H2>
 

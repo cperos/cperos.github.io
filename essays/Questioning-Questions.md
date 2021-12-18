@@ -21,7 +21,7 @@ Beyond just etiquette, must make it easy for them to help you.  Nobody wants to 
 
 A great example of this is my little brother, Jon.  He has no formal training in programming or computers, yet now works at a direct level software engineer position at several AAA game studios.  He has learned everything he knows from resources available online and became so good that he accidentally finds more programming work that he can shake a stick at.  People that know how he operates know that what makes him a truly great coder is his ability to google.  He can find the solution to any problem on the web, and that is a skill that shouldn’t be underestimated.
 
-Lets take a look at some smart questions and not so smart questions below from Stack Overflow, and see what separates the winners from the losers.
+Let's take a look at some smart questions and not so smart questions below from Stack Overflow, and see what separates the winners from the losers.
 
 https://stackoverflow.com/questions/5508110/why-is-this-program-erroneously-rejected-by-three-c-compilers
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/WaveCache.jpg
+image: images/WaveCacheSquare.jpg
 title: WaveCache
 permalink: projects/WaveCache
 # All dates must be YYYY-MM-DD format!

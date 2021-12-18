@@ -16,7 +16,7 @@ labels:
 summary: A collaborative culmination of a semester.
 ---
 
-<H1>Surfing the internet for Surf data:</H1>
+<H1>Surfing the internet for Surf data</H1>
 <H2>WaveCache</H2>
 
 This was a project I saw from start to finish.  This is because on the day we had to come up with final project ideas, the surf break data was my pitch to the group.  My project along with one other was selected as additional project ideas for the class and a week or two later when we were randomly assigned to groups, I was assigned to my own project idea.  This seemed like a great match, after all I love surfing, and it was my own idea, but little did I know I would be spending hours upon hours gathering raw data, GPS locations, images and descriptions for all the major surf breaks on Oahu.

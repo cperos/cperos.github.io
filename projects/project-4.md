@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/monsters.jpg
-title: AR UH Monster Hunter
-permalink: projects/Payphone
+image: images/WaveCache.jpg
+title: WaveCache
+permalink: projects/WaveCache
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-16
 labels:

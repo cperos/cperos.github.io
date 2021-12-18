@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Brains of Steel
+title: Brains of Steel: Brain Training with Phillip “The Chalk” Johnson
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-15
 labels:
@@ -11,9 +11,6 @@ labels:
   - Meteor
   - WOD
 ---
-
-<H1>Brains of Steel: Brain Training with Phillip “The Chalk” Johnson </H1>
-<H2>Get it? Because teachers use chalk and its kind of like Dwayne “The Rock” Johnson?  Aww nevermind… </H2>
 
 When I think back to the days of my first WODs it almost seems like ancient history. WOD stands for “Workout of the Day” for those not ICS314 Savvy, and they are a timed programming exercise with a partner.  No screen sharing, no outside help, just two near strangers on an all or nothing quest to help each other solve a timed programming puzzle over Discord.  At first it was pretty terrifying, not only your grade, but your partners grade depends on both your abilities to solve this puzzle and with the slightest mistake, your potential 100 points instantly becomes 0 points.  Stakes are high, nerves were tense, every Thursday morning the teacher would say “Its Thursday, you know what that means guys?”, and the class despite always knowing exactly what we were doing would never answer, as if we wouldn't have the WOD if nobody said the word.  It would always happen anyways, even when we thought it wouldn’t, it still happened. After several months these tense heart pounding mental aerobics became a little less heart pounding.  
 
